@@ -1,0 +1,15 @@
+# Local secrets and runtime data
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+__pycache__/
+*.pyc
+
+# Local backups and captures
+*.before-*
+*.backup-*
+*.bak
+*.har
+outputs/

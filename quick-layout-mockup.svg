@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+<rect width="1500" height="560" fill="#0f1722"/>
+<rect x="38" y="30" width="1424" height="500" rx="18" fill="#151f2c" stroke="#334155" stroke-width="2"/>
+<text x="70" y="82" fill="#f1f5f9" font-family="Arial" font-size="31" font-weight="700">Tottenham - Aston Villa</text>
+<text x="70" y="111" fill="#f4d35e" font-family="Arial" font-size="16" font-weight="700">18.09. 20:00</text>
+<text x="70" y="148" fill="#94a3b8" font-family="Arial" font-size="15">Klik na zaglavlje meča ili spisak kladionica otvara markete</text>
+<g font-family="Arial" font-size="17" fill="#e7eef7" text-anchor="middle">
+ <g fill="#202b38" stroke="#3b5069"><rect x="70" y="170" width="125" height="40" rx="8"/><rect x="203" y="170" width="78" height="40" rx="8"/><rect x="289" y="170" width="103" height="40" rx="8"/><rect x="400" y="170" width="112" height="40" rx="8"/><rect x="520" y="170" width="130" height="40" rx="8"/><rect x="658" y="170" width="98" height="40" rx="8"/><rect x="764" y="170" width="115" height="40" rx="8"/><rect x="887" y="170" width="105" height="40" rx="8"/><rect x="1000" y="170" width="82" height="40" rx="8"/></g>
+ <text x="132" y="196">BalkanBet</text><text x="242" y="196">King</text><text x="340" y="196">MaxBet</text><text x="456" y="196">Meridian</text><text x="585" y="196">MerkurXtip</text><text x="707" y="196">Mozzart</text><text x="821" y="196">SoccerBet</text><text x="939" y="196">Superbet</text><text x="1041" y="196">1xBet</text>
+</g>
+<line x1="70" y1="232" x2="1430" y2="232" stroke="#334155"/>
+<text x="70" y="265" fill="#60a5fa" font-family="Arial" font-size="18" font-weight="700">Brze kvote — klik dodaje izbor na tiket</text>
+<g font-family="Arial" font-size="16" fill="#e7eef7" text-anchor="middle">
+ <g fill="#101a26" stroke="#3b5069"><rect x="70" y="285" width="62" height="48" rx="8"/><rect x="140" y="285" width="62" height="48" rx="8"/><rect x="210" y="285" width="62" height="48" rx="8"/><rect x="280" y="285" width="62" height="48" rx="8"/><rect x="350" y="285" width="62" height="48" rx="8"/><rect x="420" y="285" width="70" height="48" rx="8"/><rect x="498" y="285" width="70" height="48" rx="8"/><rect x="576" y="285" width="110" height="48" rx="8"/><rect x="694" y="285" width="110" height="48" rx="8"/><rect x="812" y="285" width="112" height="48" rx="8"/><rect x="932" y="285" width="70" height="48" rx="8"/><rect x="1010" y="285" width="70" height="48" rx="8"/><rect x="1088" y="285" width="70" height="48" rx="8"/><rect x="1166" y="285" width="95" height="48" rx="8"/><rect x="1269" y="285" width="95" height="48" rx="8"/><rect x="70" y="345" width="105" height="48" rx="8"/><rect x="183" y="345" width="105" height="48" rx="8"/></g>
+ <text x="101" y="315">1</text><text x="171" y="315">X</text><text x="241" y="315">2</text><text x="311" y="315">1X</text><text x="381" y="315">X2</text><text x="455" y="315">2+</text><text x="533" y="315">3+</text><text x="631" y="315">1+ I &amp; 1+ II</text><text x="749" y="315">1–3 / 1–3</text><text x="868" y="315">2+ I ili II</text><text x="967" y="315">GG</text><text x="1045" y="315">GG I</text><text x="1123" y="315">2+ I</text><text x="1213" y="375">1X&amp;0–3</text><text x="1316" y="315">X2&amp;2+</text><text x="1220" y="315">1X&amp;2+</text><text x="235" y="375">X2&amp;0–3</text>
+</g>
+<text x="70" y="455" fill="#7890aa" font-family="Arial" font-size="15">Zaglavlje + kladionice: otvaranje detaljnih marketa</text>
+</svg>
